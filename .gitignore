@@ -1,3 +1,4 @@
-/external
 /out
 /.idea
+/.gradle
+/build
